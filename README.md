@@ -3,6 +3,7 @@
 * *__Applications without the need to install the library__*
     * [BMI](https://github.com/amir-v-z/Mini-projects-python/blob/main/Applications%20without%20the%20need%20to%20install%20the%20library/BMI.py)
     * [PNG_to_JPG](https://github.com/amir-v-z/Mini-projects-python/blob/main/Applications%20without%20the%20need%20to%20install%20the%20library/PNG_to_JPG.py)
+    * [QR Code](https://github.com/amir-v-z/Mini-projects-python/blob/main/Applications%20without%20the%20need%20to%20install%20the%20library/QR.py)
     * [Clock](https://github.com/amir-v-z/Mini-projects-python/blob/main/Applications%20without%20the%20need%20to%20install%20the%20library/clock.py)
     * [Ip](https://github.com/amir-v-z/Mini-projects-python/blob/main/Applications%20without%20the%20need%20to%20install%20the%20library/ip.py)
     * [Notepad](https://github.com/amir-v-z/Mini-projects-python/blob/main/Applications%20without%20the%20need%20to%20install%20the%20library/notepad.py)
