@@ -27,6 +27,7 @@
     * [Read_Text](https://github.com/amir-v-z/Mini-projects-python/blob/main/You%20must%20install%20the%20required%20library/read_text.py) ==> pip install pyttsx3
     * [Tabdil_Miladi_Be_Shamsi](https://github.com/amir-v-z/Mini-projects-python/blob/main/You%20must%20install%20the%20required%20library/tabdil_miladi_be_shamsi.py) ==> pip install pytz
     * [Translate](https://github.com/amir-v-z/Mini-projects-python/blob/main/You%20must%20install%20the%20required%20library/tarjomeh.py) ==> pip install translate
+    * [text](https://github.com/amir-v-z/Mini-projects-python/blob/main/You%20must%20install%20the%20required%20library/text.py) ==> pip install pyfiglet /// pip install termcolor
 
 # 💢 توضیحات مهم 💢
 ```
