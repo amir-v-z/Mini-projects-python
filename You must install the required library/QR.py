@@ -1,3 +1,5 @@
+# pip install qrcode
+
 import qrcode
 
 qr = qrcode.QRCode()
