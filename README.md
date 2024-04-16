@@ -34,7 +34,7 @@
 pip install (name_library)
 ```
 > در Command Prompt (cmd) سیستم خود نصب کنید.
-
+#
 > *__🌈 If you enjoyed...🔥__*
 
 > *__Don't forget to give stars🌟please😉🙏🏻__*
