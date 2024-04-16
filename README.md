@@ -29,12 +29,11 @@
     * [QR code](https://github.com/amir-v-z/Mini-projects-python/blob/main/You%20must%20install%20the%20required%20library/QR.py) ==> pip install qrcode
 
 # 💢 توضیحات مهم 💢
+ > برای اجرای برنامه های دسته (You must install the required library) باید کتابخانه نام برده شده را از طریق دستور
 ```
-برای اجرای برنامه های دسته آخر
-(You must install the required library)
-باید کتابخانه نام برده شده را از طریق
-Command Prompt (cmd) سیستم خود نصب کنید.
+pip install (name_library)
 ```
+> در Command Prompt (cmd) سیستم خود نصب کنید.
 
 > *__🌈 If you enjoyed...🔥__*
 
