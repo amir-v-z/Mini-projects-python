@@ -2,7 +2,6 @@
 
 * *__Applications without the need to install the library__*
     * [BMI](https://github.com/amir-v-z/Mini-projects-python/blob/main/Applications%20without%20the%20need%20to%20install%20the%20library/BMI.py)
-    * [PNG_to_JPG](https://github.com/amir-v-z/Mini-projects-python/blob/main/Applications%20without%20the%20need%20to%20install%20the%20library/PNG_to_JPG.py)
     * [Clock](https://github.com/amir-v-z/Mini-projects-python/blob/main/Applications%20without%20the%20need%20to%20install%20the%20library/clock.py)
     * [Ip](https://github.com/amir-v-z/Mini-projects-python/blob/main/Applications%20without%20the%20need%20to%20install%20the%20library/ip.py)
     * [Notepad](https://github.com/amir-v-z/Mini-projects-python/blob/main/Applications%20without%20the%20need%20to%20install%20the%20library/notepad.py)
@@ -20,7 +19,7 @@
     * [windows](https://github.com/amir-v-z/Mini-projects-python/blob/main/Logos/logo_windows.py)
 
 * *__Shapes__*
-    * [shape 1...7](https://github.com/amir-v-z/Mini-projects-python/tree/main/Shapes)
+    * [shape 1...8](https://github.com/amir-v-z/Mini-projects-python/tree/main/Shapes)
 
 * *__You must install the required library__*
     * [Read_Text](https://github.com/amir-v-z/Mini-projects-python/blob/main/You%20must%20install%20the%20required%20library/read_text.py) ==> pip install pyttsx3
@@ -31,14 +30,10 @@
 
 # 💢 توضیحات مهم 💢
 ```
-برای اجرای برنامه های دسته آخر قسمت
-You must install the required library
-باید در
-Command Prompt (cmd)
-دستور
-pip install ...
-را وارد کنید.
-به جای (...) اسم کتابخانه مورد نیاز را بنویسید.
+برای اجرای برنامه های دسته آخر
+(You must install the required library)
+باید کتابخانه نام برده شده را از طریق
+Command Prompt (cmd) سیستم خود نصب کنید.
 ```
 
 > *__🌈 If you enjoyed...🔥__*
