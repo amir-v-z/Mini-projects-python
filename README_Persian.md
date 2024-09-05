@@ -5,8 +5,8 @@
 * *__برنامه های کاربردی بدون نیاز به نصب کتابخانه__*
     * [شاخص توده بدنی BMI](https://github.com/amir-v-z/Mini-projects-python/blob/main/Applications%20without%20the%20need%20to%20install%20the%20library/BMI.py)
     * [ساعت](https://github.com/amir-v-z/Mini-projects-python/blob/main/Applications%20without%20the%20need%20to%20install%20the%20library/clock.py)
-    * [Ip](https://github.com/amir-v-z/Mini-projects-python/blob/main/Applications%20without%20the%20need%20to%20install%20the%20library/ip.py)
-    * [Notepad | صفحه یادداشت](https://github.com/amir-v-z/Mini-projects-python/blob/main/Applications%20without%20the%20need%20to%20install%20the%20library/notepad.py)
+    * [آی پی](https://github.com/amir-v-z/Mini-projects-python/blob/main/Applications%20without%20the%20need%20to%20install%20the%20library/ip.py)
+    * [صفحه یادداشت](https://github.com/amir-v-z/Mini-projects-python/blob/main/Applications%20without%20the%20need%20to%20install%20the%20library/notepad.py)
 
 * *__بازی ها__*
     * [تاس ریختن](https://github.com/amir-v-z/Mini-projects-python/blob/main/Games/Dice%20Rolling/Dice_Rolling.py)
@@ -25,7 +25,7 @@
 
 * *__باید کتابخانه مورد نیاز را نصب کنید__*
     * [متن رو میخونه](https://github.com/amir-v-z/Mini-projects-python/blob/main/You%20must%20install%20the%20required%20library/read_text.py) ==> pip install pyttsx3
-    * [تبدیل میلادی به شمسی](https://github.com/amir-v-z/Mini-projects-python/blob/main/You%20must%20install%20the%20required%20library/tabdil_miladi_be_shamsi.py) ==> pip install pytz
+    * [تبدیل تاریخ میلادی به شمسی](https://github.com/amir-v-z/Mini-projects-python/blob/main/You%20must%20install%20the%20required%20library/tabdil_miladi_be_shamsi.py) ==> pip install pytz /// pip install persiantools
     * [ترجمه](https://github.com/amir-v-z/Mini-projects-python/blob/main/You%20must%20install%20the%20required%20library/tarjomeh.py) ==> pip install translate
     * [زیباسازی متن](https://github.com/amir-v-z/Mini-projects-python/blob/main/You%20must%20install%20the%20required%20library/text.py) ==> pip install pyfiglet /// pip install termcolor
     * [کیو آر کد (qrcode)](https://github.com/amir-v-z/Mini-projects-python/blob/main/You%20must%20install%20the%20required%20library/QR.py) ==> pip install qrcode
