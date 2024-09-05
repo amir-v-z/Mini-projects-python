@@ -28,7 +28,8 @@
     * [تبدیل میلادی به شمسی](https://github.com/amir-v-z/Mini-projects-python/blob/main/You%20must%20install%20the%20required%20library/tabdil_miladi_be_shamsi.py) ==> pip install pytz
     * [ترجمه](https://github.com/amir-v-z/Mini-projects-python/blob/main/You%20must%20install%20the%20required%20library/tarjomeh.py) ==> pip install translate
     * [زیباسازی متن](https://github.com/amir-v-z/Mini-projects-python/blob/main/You%20must%20install%20the%20required%20library/text.py) ==> pip install pyfiglet /// pip install termcolor
-    * [QR code](https://github.com/amir-v-z/Mini-projects-python/blob/main/You%20must%20install%20the%20required%20library/QR.py) ==> pip install qrcode
+    * [کیو آر کد (qrcode)](https://github.com/amir-v-z/Mini-projects-python/blob/main/You%20must%20install%20the%20required%20library/QR.py) ==> pip install qrcode
+    * [عکس سیاه سفید یا رنگی](https://github.com/amir-v-z/Mini-projects-python/blob/main/You%20must%20install%20the%20required%20library/Black-and-white-or-colorful-photo/Black_and_white_or_colorful_photo.py) ==> pip install opencv-python
 
 # 💢 توضیحات مهم 💢
  > برای اجرای برنامه های دسته آخر باید کتابخانه نام برده شده را از طریق دستور
