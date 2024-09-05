@@ -1,4 +1,5 @@
 # pip install pytz
+# pip install persiantools
 from persiantools.jdatetime import JalaliDate
 from datetime import datetime
 date = datetime.strptime(input("Enter time example(2003-07-24): "), '%Y-%m-%d')
